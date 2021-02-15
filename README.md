@@ -1,4 +1,4 @@
-### Hi there 👋, It's Ajie.
+### Hiya, It's Ajie 🙋🏾‍♂️
 
 <!--
 **lintdeveloper/lintdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
